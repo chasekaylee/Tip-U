@@ -37,6 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 -First time ever programming using Swift, so required lots of research beyond the orginial instructions provided.
+
 -Had a difficult time saving and storing default precentages.
 
 ## License
