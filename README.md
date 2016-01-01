@@ -27,11 +27,9 @@ The following **additional** features are implemented:
       
 ## Video Walkthrough 
 
+[Imgur](http://i.imgur.com/GOpH1Yy.gif)
 
 
-http://i.imgur.com/GOpH1Yy.gif
-
-http://i.imgur.com/GOpH1Yy.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
