@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] List anything else that you can get done to improve the app functionality!
-      >Dismisses keyboard when part other than screen touched
+- [X] Dismisses keyboard when part other than screen touched
+- [X] Added Launch Screen
       
 ## Video Walkthrough 
 
@@ -35,8 +36,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-First time ever programming using Swift, so required lots of research beyond the orginial instructions provided.
-Had a difficult time saving and storing default precentages.
+-First time ever programming using Swift, so required lots of research beyond the orginial instructions provided.
+-Had a difficult time saving and storing default precentages.
 
 ## License
 
